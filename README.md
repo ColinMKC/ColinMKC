@@ -1,4 +1,4 @@
-## Hi there, I'm Colin 👋
+## Hi there, I'm Colin Kohchet-Chua 👋
 
 I'm a Mechanical & Electrical Systems Engineering undergradute student transitioning into Cybersecurity, focusing on:
 - 🔐 Cloud Security (AWS, Azure)
