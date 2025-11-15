@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Colin 👋
 
-<!--
-**ColinMKC/ColinMKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical & Electrical Systems Engineering undergradute student transitioning into Cybersecurity, focusing on:
+- 🔐 Cloud Security (AWS, Azure)
+- 🛠️ Security Architecture & Infrastructure
+- ☁️ Terraform & Infrastructure as Code
+- 🐍 Python automation
+- 📊 Detection engineering and log analysis
 
-Here are some ideas to get you started:
+🚀 Current Projects
+- Building a Secure AWS Reference Architecture (Terraform + IAM + CloudTrail)
+- Automated detection and remediation of risky IAM policies
+- Learning SIEM tools and cloud logging pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Google Cybersecurity Certificate
+- AWS Cloud fundamentals
+- Terraform basics
+- Python for security
+
+📫 Connect with me
