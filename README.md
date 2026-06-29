@@ -1,20 +1,26 @@
-## Hello, I'm Colin Kohchet-Chua 👋
+# Colin <!-- replace with your full name -->
 
-I'm a Mechanical & Electrical Systems Engineering 
-undergradute student transitioning into Cybersecurity.
-More specifically, ICS/OT and embedded systems security. 
+**Cybersecurity — secure systems, cloud, and DevSecOps**
 
-🌱 Currently Learning
-- Google Cybersecurity Certificate
-- Working through TryHackMe Pre-Security path daily
-- Building Kali Linux home lab
-- Studying toward CompTIA Security+
+Engineering undergraduate at Kyoto University of Advanced Science (Mechanical & Electrical Systems Engineering), based in Kyoto, Japan. I'm building toward security engineering on the *builder* side — designing and hardening systems, not just monitoring them.
 
-👔 Background
-My Mechanical and Electrical Engineering degree gives me a foundation
-in hardware, control systems, and industrial networks that I am
-applying directly to cybersecurity
+My core focus is cloud security, DevSecOps, and secure systems design. I pair that with a background in embedded and control systems, which is where I differentiate: I'm interested in the boundary where hardware, industrial systems (OT/ICS), and modern cloud pipelines meet — and how to secure it.
 
-📫 Links
-- TryHackMe: https://tryhackme.com/p/colinmkc
-- LinkedIn: www.linkedin.com/in/colin-kohchet-chua-18b73a2b3
+### Currently
+- Completing the Google Cybersecurity Certificate and publishing hands-on labs here
+- Preparing for CompTIA Security+ (exam late 2026)
+- Working toward JLPT N2 — I work in English and am steadily building professional Japanese
+- Building in public: new security projects land in this profile as I go
+
+### Focus areas
+- Cloud security & secure architecture design
+- DevSecOps — security automation in CI/CD (SAST, DAST, dependency, secrets, and IaC scanning)
+- Secure embedded-to-cloud / IIoT pipelines
+- AI security — LLM threats, prompt injection, NIST AI RMF
+
+### Tools & tech
+`GitHub Actions` · `Semgrep` · `Trivy` · `gitleaks` · `Checkov` · `OWASP ZAP` · `OpenPLC` · `Modbus` · `STM32` · `Arduino` · `Linux`
+
+### Let's connect
+- LinkedIn: <!-- paste your LinkedIn URL -->
+- Open to security internships and roles in Japan, especially with international / English-speaking teams.
