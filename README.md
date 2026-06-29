@@ -1,4 +1,4 @@
-# Colin <!-- replace with your full name -->
+# Colin Kohchet-Chua
 
 **Cybersecurity — secure systems, cloud, and DevSecOps**
 
@@ -22,5 +22,5 @@ My core focus is cloud security, DevSecOps, and secure systems design. I pair th
 `GitHub Actions` · `Semgrep` · `Trivy` · `gitleaks` · `Checkov` · `OWASP ZAP` · `OpenPLC` · `Modbus` · `STM32` · `Arduino` · `Linux`
 
 ### Let's connect
-- LinkedIn: <!-- paste your LinkedIn URL -->
+- LinkedIn: https://www.linkedin.com/in/colinmkc/
 - Open to security internships and roles in Japan, especially with international / English-speaking teams.
