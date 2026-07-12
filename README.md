@@ -19,7 +19,8 @@ My core focus is cloud security, DevSecOps, and secure systems design. I pair th
 - AI security — LLM threats, prompt injection, NIST AI RMF
 
 ### Tools & tech
-`GitHub Actions` · `Semgrep` · `Trivy` · `gitleaks` · `Checkov` · `OWASP ZAP` · `OpenPLC` · `Modbus` · `STM32` · `Arduino` · `Linux`
+**Working with now:** `Linux` · `VirtualBox` · `pfSense/OPNsense` · `Suricata` · `Wireshark` · `Kali` · `STM32` · `Arduino`
+**Learning next:** `GitHub Actions` · `Semgrep` · `Trivy` · `gitleaks` · `Checkov` · `OWASP ZAP`
 
 ### Let's connect
 - LinkedIn: https://www.linkedin.com/in/colinmkc/
