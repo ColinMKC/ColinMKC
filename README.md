@@ -14,9 +14,9 @@ My core focus is cloud security, DevSecOps, and secure systems design. I pair th
 
 ### Focus areas
 - Cloud security & secure architecture design
-- DevSecOps — security automation in CI/CD (SAST, DAST, dependency, secrets, and IaC scanning)
+- DevSecOps - security automation in CI/CD (SAST, DAST, dependency, secrets, and IaC scanning)
 - Secure embedded-to-cloud / IIoT pipelines
-- AI security — LLM threats, prompt injection, NIST AI RMF
+- AI security - LLM threats, prompt injection, NIST AI RMF
 
 ### Tools & tech
 **Working with now:** `Linux` · `VirtualBox` · `pfSense/OPNsense` · `Suricata` · `Wireshark` · `Kali` · `STM32` · `Arduino`
