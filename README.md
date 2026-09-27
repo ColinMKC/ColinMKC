@@ -4,7 +4,7 @@
 
 Engineering undergraduate at Kyoto University of Advanced Science (Mechanical & Electrical Systems Engineering), based in Kyoto, Japan. I'm building toward security engineering on the *builder* side - designing and hardening systems, not just monitoring them.
 
-My core focus is cloud security, DevSecOps, and secure systems design. I pair that with a background in embedded and control systems, which is where I differentiate: I'm interested in the boundary where hardware, industrial systems (OT/ICS), and modern cloud pipelines meet — and how to secure it.
+My core focus is cloud security, DevSecOps, and secure systems design. I pair that with a background in embedded and control systems, which is where I differentiate: I'm interested in the boundary where hardware, industrial systems (OT/ICS), and modern cloud pipelines meet, and how to secure it.
 
 ### Currently
 - Completing the Google Cybersecurity Certificate and publishing hands-on labs here
