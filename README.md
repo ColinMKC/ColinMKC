@@ -1,27 +1,27 @@
 # Colin Kohchet-Chua
 
-**Cybersecurity - secure systems, cloud, and DevSecOps**
+**Cloud · DevOps · DevSecOps — from the device to the cloud**
 
-Engineering undergraduate at Kyoto University of Advanced Science (Mechanical & Electrical Systems Engineering), based in Kyoto, Japan. I'm building toward security engineering on the *builder* side - designing and hardening systems, not just monitoring them.
+Engineering undergraduate at Kyoto University of Advanced Science (Mechanical & Electrical Systems Engineering), based in Kyoto. I'm building toward security engineering on the builder side: designing, automating, and hardening systems, not just monitoring them.
 
-My core focus is cloud security, DevSecOps, and secure systems design. I pair that with a background in embedded and control systems, which is where I differentiate: I'm interested in the boundary where hardware, industrial systems (OT/ICS), and modern cloud pipelines meet, and how to secure it.
+My background is embedded systems and robotics: circuits, bare-metal firmware, and vision pipelines, including an industry capstone that won a Gold Award. I bring that build-it-then-test-it habit to cloud infrastructure and CI/CD.
 
-### Currently
-- Completing the Google Cybersecurity Certificate and publishing hands-on labs here
-- Preparing for CompTIA Security+ (exam late 2026)
-- Working toward JLPT N2, I work in English and am steadily building professional Japanese
-- Building in public: new security projects land in this profile as I go
+### 📍 Now
+- ✅ **Google Cybersecurity Professional Certificate**, earned Oct 2026
+- 🛠️ Building an **AWS DevSecOps pipeline**, with security checks built into CI/CD from the first commit
+- 📚 **CompTIA Security+** and **JLPT N2**, both Dec 2026
+- 🧭 **Next:** a cloud certification (Jan 2027), then an AI × DevSecOps project or certification
 
-### Focus areas
-- Cloud security & secure architecture design
-- DevSecOps - security automation in CI/CD (SAST, DAST, dependency, secrets, and IaC scanning)
-- Secure embedded-to-cloud / IIoT pipelines
-- AI security - LLM threats, prompt injection, NIST AI RMF
+### 🔨 Featured work
+- [**Secure Network Architecture Lab**](https://github.com/ColinMKC/secure-network-architecture-lab): four-zone segmented network with least-privilege firewall rules and Suricata IDS, attack-tested from Kali
+- [**Google Cybersecurity Portfolio**](https://github.com/ColinMKC/google-cybersecurity-portfolio): hands-on labs covering incident response, risk assessment (NIST CSF, SP 800-30), Linux hardening, SQL, and Python automation
+- **AWS DevSecOps Pipeline** *(in progress)*: AWS infrastructure and CI/CD with security checks built in from the first commit
+- [**Big Boy Rover**](https://github.com/ColinMKC/big-boy-rover): Wi-Fi teleoperated robot. I led the electronics and STM32 firmware, and the vision pipeline
+- [**Keystone Project**](https://github.com/ColinMKC/university-keystone-project): precision lens pick-and-place robot built with Nalux Co., Ltd. 🏆 Gold Award
 
-### Tools & tech
-**Working with now:** `Linux` · `VirtualBox` · `pfSense/OPNsense` · `Suricata` · `Wireshark` · `Kali` · `STM32` · `Arduino`
-**Learning next:** `GitHub Actions` · `Semgrep` · `Trivy` · `gitleaks` · `Checkov` · `OWASP ZAP`
+### 🧰 Tools
+**Working with:** `Linux` · `Python` · `Bash` · `C` · `SQL` · `Git` · `pfSense` · `Suricata` · `Kali` · `Nmap` · `STM32` · `ROS 2` · `OpenCV`
+**Learning:** `AWS` · `GitHub Actions` · `Terraform` · `Semgrep` · `Trivy`
 
-### Let's connect
-- LinkedIn: https://www.linkedin.com/in/colinmkc/
-- Open to security internships and roles in Japan, especially with international / English-speaking teams.
+### 🤝 Connect
+Open to **Cloud, DevOps, and DevSecOps** internships and new-grad roles in Japan or internationally, especially with English-speaking teams · [LinkedIn](https://www.linkedin.com/in/colinmkc/)
